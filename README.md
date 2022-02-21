@@ -4,20 +4,11 @@
 [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovisgara.wav/) 
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-sgaravatto)
 
-<br>
-<br>
-## Abo
-<!--
-**GioviDelBosco/GioviDelBosco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> About me </h2>
+Hi, my name is Giovanni and i'm 19<br>
+I am a computer engineering student with a passion for cybersecurity and music
+<br>
+<h2> What I've done at UniPD </h2>
+This first half of semester my classmates and I have studied Mathematical Analysis I and Java language
+(in my view Analysis I was very hard but not only for me xD)
