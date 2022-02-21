@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, nice to meet you! I'm Giovanni 😄
+<hr>
 
+[![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovisgara.wav/) 
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-sgaravatto)
+
+<br>
+<br>
+## Abo
 <!--
 **GioviDelBosco/GioviDelBosco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
