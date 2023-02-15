@@ -9,6 +9,4 @@
 Hi, my name is Giovanni and i'm 20<br>
 I am a computer engineering student with a passion for cybersecurity and music
 <br>
-<h2> What I've done at UniPD </h2>
-This first half of semester my classmates and I have studied Mathematical Analysis I and Java language
-(in my view Analysis I was very hard but not only for me xD)
+
