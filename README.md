@@ -6,7 +6,7 @@
 
 
 <h2> About me </h2>
-Hi, my name is Giovanni and i'm 20<br>
+Hi, my name is Giovanni and i'm 21<br>
 I am a computer engineering student with a passion for cybersecurity and music
 <br>
 
